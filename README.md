@@ -2,7 +2,7 @@
 Welcome
 
 My name is Misael Perez, and I am in my third year of computer science.
-I am able to programming in C++ and Java, and I am currently working in SQL and Schema.
+Program Languages I use: C++, Python, DrRacket, SQL, Schema, C++, MATLAB
 
 
 
