@@ -82,5 +82,4 @@ A project focused on extracting weather information from online sources and proc
 
 ---
 
-*Always building. Always learning. Always improving.* 🚀
 
